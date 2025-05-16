@@ -1,0 +1,2 @@
+df = pd.read_csv("data/sample_que_no_existe.csv")
+# need to be careful when writing the direction of the files, in this case we type a file that dosent exist in the repository

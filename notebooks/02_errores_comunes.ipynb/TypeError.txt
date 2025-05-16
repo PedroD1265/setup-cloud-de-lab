@@ -1,0 +1,4 @@
+print(df["name"] + 10)
+
+
+#in this error we can se two types of parameters where are just allowed the type of strings 

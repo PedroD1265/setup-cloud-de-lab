@@ -1,0 +1,4 @@
+print(df["nombres"])  # cuando la columna se llama "name"
+
+el error se da al no encontrar una columna con este nombre
+tambien llamado key error
