@@ -28,4 +28,4 @@ datasets/*.zip
 # Secrets
 .env
 *.key
-scripts/hello_csv_test.py
+#scripts/hello_csv_test.py
